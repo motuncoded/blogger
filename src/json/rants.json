@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Stop Asking for 10 Years of Experience in a 2-Year-Old Tech",
+    "image": "/images/2-years-experience.jpg",
+    "audio": "/audios/hire-builders.wav"
+  },
+  {
+    "title": "Git conflicts are developer trauma — and we normalize it way too much.",
+    "image": "/images/conflicts.jpg",
+    "audio": "/audios/git-conflicts.wav"
+  },
+  {
+    "title": "The Myth of the Perfect Code Review — Can We Stop Pretending It Exists?",
+    "image": "/images/code-review.png",
+    "audio": "/audios/code-review.wav"
+  },
+  {
+    "title": "Tech Interviews Are a Performance — Not Proof of Skill. ",
+    "image": "/images/tech-interview.webp",
+    "audio": "/audios/tech-interview.wav"
+  },
+  {
+    "title": "The Overemphasis on Frameworks in Job Descriptions — Let Developers Breathe",
+    "image": "/images/frameworks.jpeg",
+    "audio": "/audios/frameworks.wav"
+  },
+  {
+    "title": "The Illusion of Work-Life Balance in Tech — Stop Selling Burnout as a Perk",
+    "image": "/images/work-life.jpg",
+    "content": "The tech industry often promotes a work-life balance that is more illusion than reality, with many employees feeling pressured to work long hours."
+  },
+  {
+    "title": "The Problem with Buzzwords in Tech",
+    "image": "/images/buzzwords.webp",
+    "content": "Buzzwords can dilute the meaning of technical discussions and create confusion rather than clarity."
+  },
+  {
+    "title": "The Fallacy of the 'Rockstar' Developer",
+    "image": "/images/rockstar.webp",
+    "content": "The idea of a 'rockstar' developer is misleading and can lead to unhealthy competition and burnout within teams."
+  }
+]
