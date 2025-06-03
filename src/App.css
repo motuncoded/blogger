@@ -1,5 +1,5 @@
 .home {
-  max-width: calc(100% - 4rem);
+  max-width: calc(100% - 3rem);
   margin: 0 auto;
 }
 
@@ -26,6 +26,9 @@ header a {
   padding: 0.5rem 1rem;
   color: var(--background-color);
   border-radius: var(--md-radius);
+}
+header a:hover {
+  background-color: var(--text-color-hover);
 }
 .hero {
   margin: 2rem auto;
@@ -67,7 +70,7 @@ h4 {
   color: var(--secondary-color);
 }
 article {
-  margin: 1rem 0.5rem;
+  margin: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

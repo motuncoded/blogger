@@ -27,16 +27,16 @@
   {
     "title": "The Illusion of Work-Life Balance in Tech — Stop Selling Burnout as a Perk",
     "image": "/images/work-life.jpg",
-    "content": "The tech industry often promotes a work-life balance that is more illusion than reality, with many employees feeling pressured to work long hours."
+    "audio": "/audios/tech-life.wav"
   },
   {
-    "title": "The Problem with Buzzwords in Tech",
+    "title": "The Problem with Buzzwords in Tech — Stop Saying Nothing With So Many Words",
     "image": "/images/buzzwords.webp",
-    "content": "Buzzwords can dilute the meaning of technical discussions and create confusion rather than clarity."
+    "audio": "/audios/tech-buzzwords.wav"
   },
   {
-    "title": "The Fallacy of the 'Rockstar' Developer",
+    "title": "The Fallacy of the 'Rockstar' Developer — You Don’t Need a Genius, You Need a Team Player",
     "image": "/images/rockstar.webp",
-    "content": "The idea of a 'rockstar' developer is misleading and can lead to unhealthy competition and burnout within teams."
+    "audio": "/audios/rockstar-developer.wav"
   }
 ]

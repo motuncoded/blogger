@@ -1,12 +1,37 @@
-# React + Vite
+# 404 Thoughts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+404 Thoughts is a modern, opinionated tech blog that delivers unfiltered perspectives on the realities of working in technology. Each post features a bold rant, an eye-catching image, and an audio snippet for an immersive experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎤 Audio rants on trending tech topics
+- 🖼️ Visuals for every post
+- 💬 Honest takes on tech culture, hiring, and work-life
+- ⚡ Built with React and Vite for fast performance
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Install dependencies:**
+
+```sh
+npm install
+```
+
+2. Run the development server:
+
+```sh
+npm run dev
+```
+
+Build for production:
+
+```sh
+npm run build
+```
+
+### Tech Stack
+
+- React
+- Vite
+- ESLint (with React Hooks and Refresh plugins)
+- React Icons
